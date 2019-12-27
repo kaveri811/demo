@@ -1,11 +1,21 @@
-# demo
-This is my first repo where i will see how to create a nice profile
+# My Repo for latest projects at INSAID
+
+## Here is the list of all projects
+
+- [Finance](https://github.com/kaveri811/demo/blob/master/finance.md "Finance")
+- [Accounts](https://github.com/kaveri811/demo/blob/master/finance.md "Accounts")
+- Banking
+- Energy
 
 
-- Point 1
-- Point 2
-___
+| Finance project |   [![Finance](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Finance")](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Finance") |
+|:---------------:|:---------------:|
+| [![Accounts](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Accounts")](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Accounts") |Accounts project|
+|Banking project|[![Banking](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Banking")](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Banking") |
+|  [![Energy](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Energy")](https://raw.githubusercontent.com/kaveri811/demo/master/images/Untitled%20Design.png "Energy") | Energy project
 
-```
-print('hello world')
-```
+
+
+
+
+
